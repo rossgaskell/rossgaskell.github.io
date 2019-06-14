@@ -20,6 +20,10 @@ p, li {
   font-size: 1.125rem;
 }
 
+nav {
+  margin-bottom: 1.625rem;
+}
+
 nav ul {
   list-style: none;
   padding: 0;
@@ -64,4 +68,8 @@ section.p {
 
 .previous-roles li {
   margin: 1.5rem 0;
+}
+
+.copyright {
+  font-size: 0.875rem;
 }
