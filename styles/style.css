@@ -16,10 +16,18 @@ h2 {
   margin: 0 0 1rem;
 }
 
-p {
-  margin: 0;
+p, li {
+  font-size: 1.125rem;
 }
 
 section {
   margin-bottom: 2.25rem;
+}
+
+section.p {
+  margin: 0;
+}
+
+.lead {
+  font-size: 1.625rem;
 }
