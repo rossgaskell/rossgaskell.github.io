@@ -20,6 +20,30 @@ p, li {
   font-size: 1.125rem;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 0.625rem;
+}
+
+nav a {
+  color: #77325A;
+  display: inline-block;
+  font-weight: 900;
+  text-decoration: none;
+  border-bottom: 2px solid #A55B87;
+}
+
+nav a:hover, nav a:focus {
+  color: #3D0927;
+  border-color: #3D0927;
+}
+
 section {
   margin-bottom: 2.25rem;
 }
@@ -39,5 +63,5 @@ section.p {
 }
 
 .previous-roles li {
-  margin: 1.5rem;
+  margin: 1.5rem 0;
 }
