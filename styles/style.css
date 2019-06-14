@@ -15,3 +15,11 @@ h2 {
   text-transform: uppercase;
   margin: 0 0 1rem;
 }
+
+p {
+  margin: 0;
+}
+
+section {
+  margin-bottom: 2.25rem;
+}
