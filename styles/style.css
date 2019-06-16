@@ -93,6 +93,12 @@ nav a {
   border-bottom: 2px solid #A55B87;
 }
 
+@media (min-width: 1024px) {
+  nav a {
+    border-width: 4px;
+  }
+}
+
 nav a:hover, nav a:focus {
   color: #3D0927;
   border-color: #3D0927;
