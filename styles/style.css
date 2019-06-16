@@ -10,7 +10,7 @@ h1 {
   margin: 0.625rem 0 1.625rem;
 }
 
-@media (min-width: 1023px) {
+@media (min-width: 1024px) {
   h1 {
     font-size: 4.5rem;
     margin: 2.25rem 0;
@@ -24,7 +24,7 @@ h2 {
   margin: 0 0 0.875rem;
 }
 
-@media (min-width: 1023px) {
+@media (min-width: 1024px) {
   h2 {
     font-size: 1.375rem;
   }
@@ -35,7 +35,7 @@ p, li {
   line-height: 1.4;
 }
 
-@media (min-width: 1023px) {
+@media (min-width: 1024px) {
   p, li {
     font-size: 1.375rem;
   }
@@ -63,7 +63,7 @@ p, li {
   padding: 1.625rem;
 }
 
-@media (min-width: 1023px) {
+@media (min-width: 1024px) {
   .grid {
     border-width: 1.625rem;
     padding: 2.25rem 3.875rem;
@@ -110,7 +110,7 @@ section p {
   font-size: 1.625rem;
 }
 
-@media (min-width: 1023px) {
+@media (min-width: 1024px) {
   .lead {
     font-size: 1.875rem;
   }
