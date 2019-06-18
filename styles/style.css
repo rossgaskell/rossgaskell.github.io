@@ -143,3 +143,24 @@ section p {
   font-size: 0.875rem;
   margin: 0;
 }
+
+.error .grid {
+  background: linear-gradient(225deg, #240b36 0%, #c31432 100%);
+  color: #FFFFFF;
+}
+
+.error a {
+  color: #FFE15C
+}
+
+.error a:hover, .error a:focus {
+  color: #FFF9DB;
+}
+
+.error nav a {
+  border-color: #FFE5A6
+}
+
+.error nav a:hover, .error nav a:focus {
+  border-color: #FFF9DB;
+}
