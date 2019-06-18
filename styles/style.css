@@ -41,6 +41,15 @@ p, li {
   }
 }
 
+a {
+  color: #77325A;
+  font-weight: 700;
+}
+
+a:hover, a:focus {
+  color: #3D0927;
+}
+
 .sr-only {
   border: 0;
   clip: rect(0 0 0 0);
@@ -86,7 +95,6 @@ nav li {
 }
 
 nav a {
-  color: #77325A;
   display: inline-block;
   font-weight: 900;
   text-decoration: none;
@@ -100,7 +108,6 @@ nav a {
 }
 
 nav a:hover, nav a:focus {
-  color: #3D0927;
   border-color: #3D0927;
 }
 
