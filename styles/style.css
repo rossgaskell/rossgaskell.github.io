@@ -42,12 +42,12 @@ p, li {
 }
 
 a {
-  color: #77325A;
+  color: #A72A72;
   font-weight: 700;
 }
 
 a:hover, a:focus {
-  color: #3D0927;
+  color: #65294C;
 }
 
 .sr-only {
